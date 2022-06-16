@@ -1,0 +1,17 @@
+{
+    "forecast": [
+        {
+            "locationCode": "5",
+            "time": "0",
+            "Tmin": "0",
+            "Tmax": "8",
+            "Hmin": "8",
+            "Hmax": "2",
+            "humidity": "5",
+            "temperature": ";",
+            "weather": "2",
+            "Wdir": "0",
+            "Wspeed": "2"
+        }
+    ]
+}
